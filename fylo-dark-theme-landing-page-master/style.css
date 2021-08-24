@@ -41,7 +41,6 @@ li{
 .first-wrapper{
     text-align: center;
     margin:0 auto;
-    width: 70%;
     margin: 16px;
 }
 .second-wrapper, .third-wrapper, .fourth-wrapper,.fifth-wrapper{
@@ -109,12 +108,13 @@ font-family: 'Raleway', sans-serif;
 }
 .test, .test2,.test3{
     padding: 45px;
+    
 }
 
 .test2{
     margin-top: 25px;
     margin-bottom: 25px;
-    margin: 0 20px;
+
 }
 .profile{
     width: 25%;
@@ -212,6 +212,9 @@ a{
     .profile{
         width: 20%;
         z-index: 1;
+    }
+    .first-wrpper{
+        width: 70%;
     }
  h5,h6{
      padding-left: 42px;
