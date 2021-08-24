@@ -12,6 +12,7 @@ header{
     flex-direction: row;
     width: 100%;
     justify-content: space-between;
+    padding: 20px;
   
 }
 nav{
@@ -39,6 +40,8 @@ li{
 }
 .first-wrapper{
     text-align: center;
+    margin:0 auto;
+    width: 70%;
     margin: 16px;
 }
 .second-wrapper, .third-wrapper, .fourth-wrapper,.fifth-wrapper{
@@ -111,6 +114,7 @@ font-family: 'Raleway', sans-serif;
 .test2{
     margin-top: 25px;
     margin-bottom: 25px;
+    margin: 0 20px;
 }
 .profile{
     width: 25%;
@@ -274,13 +278,12 @@ a{
       justify-content: space-between;
   }
   .test, .test2, .test3{
-      width: 20%;
       padding: 15px;
       
   }
 
   .test2{
-      margin: 0;
+      margin: 0 20px;
   }
   .test3{
       margin-right: 70px;
